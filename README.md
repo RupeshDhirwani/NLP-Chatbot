@@ -1,5 +1,5 @@
 # Chat-bot using GPT 4o
-Build a chatbot using Gpt 3.5 & Flask server(python)
+Build a chatbot using Gpt 4o & Flask server(python)
 # Requirements
 1. Flask module to create a web server.
 Command used in terminal : `pip install Flask`
